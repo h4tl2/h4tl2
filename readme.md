@@ -2,6 +2,6 @@
 
 Dealing with trade-off both in life and software.
 
-🐰: `js`, `ts`, `go`, `mqtt`, `websocket`,`o11y`, `k8s`
+🐰: `ts`, `golang`, `python`, `mqtt`, `websocket`,`o11y`, `k8s`
 
 <img src="https://i.ibb.co/RvdZRKk/IMG-0138.jpg" alt="IMG-0138" border="0">
